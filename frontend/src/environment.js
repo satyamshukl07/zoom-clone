@@ -6,7 +6,7 @@
   let IS_PROD = true;
 
   const server = IS_PROD ?  
-     "https://zoom-video-call-wv6p.onrender.com" :
+     "https://zoom-clone-1j5j.onrender.com" :
 
      "http://localhost:8000"
      
